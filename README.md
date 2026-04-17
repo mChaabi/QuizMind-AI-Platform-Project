@@ -88,7 +88,7 @@
 
 ## 🎯 À propos
 
-**QuizMind AI** est une application de quiz interactive où **chaque question est générée en temps réel par l'intelligence artificielle Claude (Anthropic)**. Le projet suit une architecture moderne séparant clairement le frontend du backend :
+**QuizMind AI** est une application de quiz interactive où **chaque question est générée en temps réel par l'intelligence artificielle Groq (Groq)**. Le projet suit une architecture moderne séparant clairement le frontend du backend :
 
 - **Laravel** joue le rôle d'interface utilisateur (vues Blade, routing)
 - **Java Spring Boot** gère toute la logique métier et les appels à l'IA
@@ -290,7 +290,7 @@ APP_URL=http://localhost:8000
 
 # Laravel n'a pas besoin de base de données directement
 # (c'est Java qui gère la DB)
-DB_CONNECTION=mysql
+DB_CONNECTION=postgresql
 DB_DATABASE=quizmind_db
 ```
 
