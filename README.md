@@ -35,14 +35,14 @@
 <br/><br/>
 
 ### ❓ Question Interactive avec Compte à Rebours
-> Chaque question est générée en temps réel par Claude AI — le timer décompte en direct
+> Chaque question est générée en temps réel par Groq AI — le timer décompte en direct
 
 <img width="1139" alt="Interface de Question Interactive avec Compte à Rebours" src="https://github.com/user-attachments/assets/d4687b05-fc4f-482d-a893-1b74d42a806a" />
 
 <br/><br/>
 
 ### ✅ Validation de Réponse & Feedback IA
-> Après chaque réponse, Claude AI génère une explication pédagogique personnalisée
+> Après chaque réponse, Groq AI génère une explication pédagogique personnalisée
 
 <img width="1227" alt="Feedback Utilisateur et Validation de Réponse Correcte" src="https://github.com/user-attachments/assets/69cda3cd-3bfe-4af4-ab1f-8e00f40cd0f2" />
 
